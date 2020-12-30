@@ -26,3 +26,6 @@ allure-results/
 drivers/
 target/
 .idea
+build/
+.gradle
+ATQA.iml
