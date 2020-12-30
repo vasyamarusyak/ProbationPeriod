@@ -69,7 +69,7 @@ public class ToDoTestsSelenide {
         //System.out.println("Quantity of tasks is " + results);
         int quantity = Integer.parseInt($(quantityOfElements).getText());
         Assert.assertTrue(results == quantity, "Quantity is equal");
-        System.out.println();
+        //System.out.println();
     }
 
 
